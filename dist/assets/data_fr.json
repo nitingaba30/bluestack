@@ -1,0 +1,57 @@
+[{
+    "title": "Campagne1",
+    "scheduleDate": "2018/04/01",
+    "locale": "US",
+    "price": "$1000",
+    "daysDiff_en": "",
+    "status": "",
+    "daysDiff_fr": ""
+  },
+  {
+    "title": "Campagne2",
+    "scheduleDate": "2019/04/15",
+    "locale": "GE",
+    "price": "$1000",
+    "daysDiff_en": "",
+    "status": "",
+    "daysDiff_fr": ""
+  },
+  {
+    "title": "Campagne3",
+    "scheduleDate": "2019/04/26",
+    "locale": "FR",
+    "price": "$1000",
+    "daysDiff_en": "",
+    "status": "",
+    "daysDiff_fr": ""
+  },
+
+  {
+    "title": "Campagne4",
+    "scheduleDate": "2019/04/27",
+    "locale": "US",
+    "price": "$1000",
+    "daysDiff_en": "",
+    "status": "",
+    "daysDiff_fr": ""
+  },
+
+  {
+    "title": "Campagne5",
+    "scheduleDate": "2019/05/05",
+    "locale": "US",
+    "price": "$1000",
+    "daysDiff_en": "",
+    "status": "",
+    "daysDiff_fr": ""
+  },
+  {
+    "title": "Campagne6",
+    "scheduleDate": "2019/05/15",
+    "locale": "US",
+    "price": "$1000",
+    "daysDiff_en": "",
+    "status": "",
+    "daysDiff_fr": ""
+  }
+]

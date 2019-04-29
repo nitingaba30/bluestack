@@ -1,0 +1,92 @@
+th {
+  text-align: left;
+}
+
+tr {
+  cursor: pointer;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    vertical-align: middle;
+}
+
+.compaign {
+  color: #0d487f;
+}
+
+.manage {
+  color: #384a71;
+}
+
+thead {
+  background: #e7e7e7;
+  color: #989898;
+}
+
+.table,
+td {
+  border: 1px solid #e7e7e7;
+}
+
+.title {
+  color: #4e5e8d;
+}
+
+.price {
+  color: #466191;
+}
+
+.nav-center {
+  text-align: center;
+}
+
+.nav-center ul.nav {
+  display: inline-block;
+}
+
+.nav-center ul.nav li {
+  display: inline
+}
+
+.price .badge {
+  background: #466191;
+  font-size: 20px;
+  border-radius: 50%;
+}
+.fa {
+    font-size: 20px;
+    margin-right: 20px;
+}
+.title img {
+  margin-right: 5px;
+}
+.csv, .chart {
+    color: #e7e7e7;
+}
+.schedule {
+    color: #466191;
+}
+.nav-pills li {
+  background-color: #86a128;
+  color: #fff;
+  border: 1px solid #86a128;
+  font-weight: bold;
+  width: 190px;
+  margin: 20px auto;
+  margin-right: 5px;
+}
+
+.nav-pills li a:hover {
+  background-color: #fff;
+  color: #86a128;
+}
+
+.nav-pills li a {
+  color: #fff;
+  padding: 5px;
+  border-radius: 0;
+}
+
+.nav-pills li.active a {
+  background-color: #fff;
+  color: #86a128;
+}

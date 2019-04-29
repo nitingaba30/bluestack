@@ -1,0 +1,20 @@
+.header {
+    background: #164779;
+    border:none;
+    border-radius: 0;
+}
+.dropdown .btn {
+    background: #164779;
+    border: none;
+    padding:14px;
+}
+.dropdown .fa {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 10px;
+    color: white;
+    vertical-align: middle;
+}
+.logo {
+    margin-top: 7px;
+}
